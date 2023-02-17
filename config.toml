@@ -1,0 +1,9 @@
+baseURL = "http://www.corgigo.com/"
+languageCode = "en-us"
+title = "The Best of Best"
+theme = 'ananke'
+
+[params]
+site_logo = "img/logo.png"
+read_more_copy = "Read more ..."
+show_reading_time = true
