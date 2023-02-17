@@ -1,4 +1,4 @@
-baseURL = "http://www.corgigo.com/"
+baseURL = "http://corgigo.github.io/"
 languageCode = "en-us"
 title = "The Best of Best"
 theme = 'ananke'
