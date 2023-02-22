@@ -8,3 +8,4 @@ site_logo = "img/logo.png"
 read_more_copy = "Read more ..."
 show_reading_time = true
 description = "No More Searching: Discover the Best with Ease"
+relcanonical = "https://www.corgigo.com/"
