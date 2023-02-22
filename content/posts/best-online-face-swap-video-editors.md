@@ -1,6 +1,6 @@
 ---
 
-title: "Get Creative with These 6 Best Online Face Swap Editors"
+title: "Get Creative with These 7 Best Online Face Swap Editors"
 
 date: 2023-02-17T16:49:49+08:00
 
