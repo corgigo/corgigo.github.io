@@ -16,4 +16,4 @@ relcanonical = "https://www.corgigo.com/"
   filename = 'sitemap.xml'
 
 [permalinks]
-  posts = "/:title"
+  posts = "/:filename"
