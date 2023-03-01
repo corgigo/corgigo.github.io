@@ -22,7 +22,7 @@ In this blog post, we'll explore five of the best AI art generators that are alr
 
 Hotpot AI Image Generator is an image generator that uses artificial intelligence to turn text and seed images into stunning illustrations and art pieces. It offers custom styles and creation tips to help users unleash their creativity and express themselves like never before.
 
-![image](https://user-images.githubusercontent.com/125871625/222069974-381a4705-bb74-4b52-9a6b-6e45c8252b62.png)
+![hotpot-ai-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222069974-381a4705-bb74-4b52-9a6b-6e45c8252b62.png)
 
 
 | Pros | Cons |
@@ -53,7 +53,7 @@ Hotpot AI Image Generator is an image generator that uses artificial intelligenc
 **Basic info:** 
 
 Create Art with AI is an AI art generator app allowing users to generate art by describing what they want to see. The app uses state-of-the-art AI methods to transform text prompts into works of art, with various customizable options. The app is free on iOS and Android.
-![image](https://user-images.githubusercontent.com/125871625/222070099-aadbd112-f560-4af3-b4fc-6d64773daf36.png)
+![starryai-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222070099-aadbd112-f560-4af3-b4fc-6d64773daf36.png)
 
 | Pros | Cons |
 | --- | --- |
@@ -74,7 +74,7 @@ Create Art with AI is free on iOS and Android. Users can generate up to 5 artwor
 **Basic Info:**
 
 The nightcafe — AI Text-to-Image Art Generator is a platform that allows users to create beautiful artwork in seconds using state-of-the-art text to image AI. It is a code-free tool that uses various algorithms to generate unique art pieces from nothing but text prompts. The platform has a community of millions of users who create, share and discuss AI art. Users can collaborate with friends and participate in daily AI art challenges.
-[![image](https://user-images.githubusercontent.com/125871625/222070263-adf9b0d6-7f2e-4006-8285-bced92d44198.png)
+[![nightcafe-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222070263-adf9b0d6-7f2e-4006-8285-bced92d44198.png)
 
 
 **Pros:**
@@ -114,7 +114,7 @@ GandiesAI is an AI-powered creative studio that allows users to generate unique 
     - Monthly: $9.99/month
     - Annual: $49.99/year
 
-![image](https://user-images.githubusercontent.com/125871625/222070363-70db68ed-1f31-490f-b561-f23477245a2c.png)
+![gandiesai-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222070363-70db68ed-1f31-490f-b561-f23477245a2c.png)
 
 
 ## **[Fotor](https://www.fotor.com/features/ai-image-generator/)-Best AI Painting Generators**
@@ -122,7 +122,7 @@ GandiesAI is an AI-powered creative studio that allows users to generate unique 
 **Basic Info:** 
 
 Fotor is an all-in-one online photo editor that offers an AI image generator. The AI image generator allows users to input their ideas into the generator and turn them into an image in seconds. Users can choose from a wide range of image styles, such as random, 3D, anime, and more. Fotor's AI text-to-art generator is perfect for beginners, allowing them to fill in the text and choose the effect they want to generate the image. Users can repeat the generation several times to get the most satisfying result. Each day, each account has a credit available for the user to experience high-quality AI painting for free.
-![image](https://user-images.githubusercontent.com/125871625/222070450-36ff0715-4c05-4cc3-bc5b-a9e8928ee8cb.png)
+![fotor-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222070450-36ff0715-4c05-4cc3-bc5b-a9e8928ee8cb.png)
 
 **Pros:**
 
@@ -137,7 +137,7 @@ Fotor is an all-in-one online photo editor that offers an AI image generator. Th
 - Fotor Pro: $8.99/month or $39.99 billed annually
 - Fotor Pro+: $19.99/month or $89.99 billed annually
 
-![image](https://user-images.githubusercontent.com/125871625/222070507-d83d51a7-83fb-4935-98db-9976f5fb17ae.png)
+![fotor-pricing-best-ai-art-generator](https://user-images.githubusercontent.com/125871625/222070507-d83d51a7-83fb-4935-98db-9976f5fb17ae.png)
 
 
 ## AI Art: Expanding Creativity in 2023
