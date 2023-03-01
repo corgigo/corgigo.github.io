@@ -20,6 +20,56 @@ But don't worry, we've done the research for you and scoured the web to find the
 
 So get ready for an exciting journey as we explore 5 ChatGPT alternatives that will blow your mind!
 
+## **ChatGPT Alternatives for Coding**
+
+If you've been using ChatGPT to generate codes and would like to discover other platforms that can offer similar or even superior results, take a look at the following websites:
+
+### **[CoPilot](https://github.com/features/copilot) - Alternative to Chatgpt for Coding**
+
+**Basic Info:**
+
+CoPilot is a code completion tool that utilizes OpenAI's Codex GPT-3 model to provide auto-completion capabilities. It supports various well-known coding platforms such as VS Code, Neovim, and JetBrains, and also offers the ability to work on the cloud with GitHub Codespaces.
+![image](https://user-images.githubusercontent.com/125871625/221226963-c7006545-9e57-469c-ac38-fb9d20ea6329.png)
+
+**Pros:**
+
+- CoPilot provides support for multi-language coding and can generate syntax in 12 different languages, including JavaScript, Go, Perl, PHP, Ruby/Swift/TypeScript, and BASH.
+- The model is fueled by billions of lines of open-source code from public domains like GitHub repositories.
+- CoPilot can help developers save time by automatically generating code snippets based on the context of their work.
+
+**Cons:**
+
+- As with any AI-based tool, CoPilot may occasionally generate code that doesn't work as intended or is not secure.
+- CoPilot is a paid service for most users, and some may not be willing to pay for an auto-completion tool.
+
+**Pricing:**
+
+CoPilot is available for free to students and contributors to popular open-source projects. For individual users, the subscription cost is $10/month. For businesses, the cost is $19/month.
+![image](https://user-images.githubusercontent.com/125871625/221226994-4ba648d6-ccca-4fe6-889c-c30a4af4d4d8.png)
+
+### [Tabnine](https://www.tabnine.com/)  **-** AI assistant for software developers
+
+**Basic Info:**
+
+Tabnine is a code completion plugin that supports the majority of programming languages, libraries, and frameworks. It was the first of its kind, originally launched as Codota and has since earned a name in the IDE market. Tabnine adheres to open-source licensing and offers Tabnine Pro, which includes a private AI model that can be trained to fit the user's personal coding style and patterns.
+
+**Pros:**
+
+- Supports a wide range of programming languages, libraries, and frameworks.
+- Adheres to open-source licensing and keeps your code secure from plagiarism or copyright infringement.
+- Offers Tabnine Pro, which allows users to customize their experience with a private AI model.
+- Ability to host and train your own AI models.
+- Requires minimal context to provide midline ideas as you type, making the coding process more efficient and convenient.
+
+**Cons:**
+
+- No significant cons were mentioned.
+
+**Pricing:**
+
+Tabnine provides a complimentary version of its programming assistance, and an upgraded plan called Tabnine Pro, which costs $15 per month.
+![image](https://user-images.githubusercontent.com/125871625/221227099-bd48a25c-0b08-4e64-924b-d42b79bded7d.png)
+
 ## **ChatGPT Alternatives for Writing**
 
 Selecting an ideal ChatGPT substitute that caters to your content creation requirements is akin to the timeless dilemma of choosing the perfect swimsuit - it boils down to personal choice. Each platform possesses distinct advantages and limitations. To assist you in making an informed decision, here are some options you can contemplate as alternatives to ChatGPT for your writing needs:
@@ -91,55 +141,6 @@ Overall, Jasper Chat is a good option for companies needing to generate content 
 
 **Pricing:** OpenAI Playground is free to use initially, but users may need to opt for a premium subscription if their usage is high.
 
-## **ChatGPT Alternatives for Coding**
-
-If you've been using ChatGPT to generate codes and would like to discover other platforms that can offer similar or even superior results, take a look at the following websites:
-
-### **[CoPilot](https://github.com/features/copilot) - Your AI pair programmer**
-
-**Basic Info:**
-
-CoPilot is a code completion tool that utilizes OpenAI's Codex GPT-3 model to provide auto-completion capabilities. It supports various well-known coding platforms such as VS Code, Neovim, and JetBrains, and also offers the ability to work on the cloud with GitHub Codespaces.
-![image](https://user-images.githubusercontent.com/125871625/221226963-c7006545-9e57-469c-ac38-fb9d20ea6329.png)
-
-**Pros:**
-
-- CoPilot provides support for multi-language coding and can generate syntax in 12 different languages, including JavaScript, Go, Perl, PHP, Ruby/Swift/TypeScript, and BASH.
-- The model is fueled by billions of lines of open-source code from public domains like GitHub repositories.
-- CoPilot can help developers save time by automatically generating code snippets based on the context of their work.
-
-**Cons:**
-
-- As with any AI-based tool, CoPilot may occasionally generate code that doesn't work as intended or is not secure.
-- CoPilot is a paid service for most users, and some may not be willing to pay for an auto-completion tool.
-
-**Pricing:**
-
-CoPilot is available for free to students and contributors to popular open-source projects. For individual users, the subscription cost is $10/month. For businesses, the cost is $19/month.
-![image](https://user-images.githubusercontent.com/125871625/221226994-4ba648d6-ccca-4fe6-889c-c30a4af4d4d8.png)
-
-### [Tabnine](https://www.tabnine.com/)  **-** AI assistant for software developers
-
-**Basic Info:**
-
-Tabnine is a code completion plugin that supports the majority of programming languages, libraries, and frameworks. It was the first of its kind, originally launched as Codota and has since earned a name in the IDE market. Tabnine adheres to open-source licensing and offers Tabnine Pro, which includes a private AI model that can be trained to fit the user's personal coding style and patterns.
-
-**Pros:**
-
-- Supports a wide range of programming languages, libraries, and frameworks.
-- Adheres to open-source licensing and keeps your code secure from plagiarism or copyright infringement.
-- Offers Tabnine Pro, which allows users to customize their experience with a private AI model.
-- Ability to host and train your own AI models.
-- Requires minimal context to provide midline ideas as you type, making the coding process more efficient and convenient.
-
-**Cons:**
-
-- No significant cons were mentioned.
-
-**Pricing:**
-
-Tabnine provides a complimentary version of its programming assistance, and an upgraded plan called Tabnine Pro, which costs $15 per month.
-![image](https://user-images.githubusercontent.com/125871625/221227099-bd48a25c-0b08-4e64-924b-d42b79bded7d.png)
 
 ## Use the Best ChatGPT Alternatives Now
 No matter what kind of content you’re looking to create, these ChatGPT alternatives offer a great range of features and functions that can help you in your creative endeavors. 
