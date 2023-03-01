@@ -93,7 +93,7 @@ Free and premium packs have different features
 
 Note that Movio's pricing plans have different features and limitations. The free plan offers limited features, while the paid plans offer more advanced options for creating and editing videos.
 
-### **[Snapchat](https://www.snapchat.com/) - The Fastest Way to Share a Moment!**
+### **[Snapchat](https://www.snapchat.com/) - Allows users to use face swap features**
 
 **Basic info:**
 
