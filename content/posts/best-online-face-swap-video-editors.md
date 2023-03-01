@@ -35,7 +35,7 @@ Deepswap.ai is an online AI face-swap app that allows users to create face swap 
 **Pricing:**
 
 By becoming a member of our PRO version, you will receive 20 credits every month, which you can use to upload videos or GIFs. One GIF equals one credit, while a 15-second video also equals one credit. There is no limit to the number of pictures you can upload. Subscriptions are automatically charged monthly or yearly, and you will be billed within 24 hours prior to the start of each billing cycle.
-{{< youtube CPLb7rmB2Gk >}}
+{{< youtube eKxsB65znpk >}}
 
 ### **[Deepfakesweb](https://deepfakesweb.com/)-Online Deepfake Maker**
 
