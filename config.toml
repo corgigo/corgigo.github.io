@@ -10,6 +10,7 @@ read_more_copy = "Read more ..."
 show_reading_time = true
 description = "Corgigo is a comparison platform with curated best lists of various products and services to help you make informed decisions."
 relcanonical = "https://www.corgigo.com/"
+custom_css = ["table.css"]
 
 [sitemap]
   changefreq = 'always'
