@@ -1,10 +1,10 @@
 ---
 
-title: "The Future of AI Writing and Coding: Top 5 Alternatives to ChatGPT"
+title: " Top 5 Alternatives to ChatGPT in 2023(Coding and Writing)"
 
 date: 2023-02-24 T18:59:49+08:00
 
-description: Join us on an exciting journey as we explore the 5 best ChatGPT alternatives that will blow your mind.
+description: we've done the research for you and scoured the web to find the best ChatGPT alternatives out there.
 
 draft: false
 
@@ -16,6 +16,7 @@ In this day and age, settling for basic conversational AI tools won't cut it. Wh
 
 As technology continues to evolve, the market is now flooded with other AI tools that are similar to ChatGPT, which can make it difficult for users to choose the right one.
 
+## **The Future of AI Coding and Writing: Top 5 Alternatives to ChatGPT**
 But don't worry, we've done the research for you and scoured the web to find the best ChatGPT alternatives out there. With attentive personas and incredible features, these ChatGPT-like AI tools are set to take your conversations to new heights in 2023.
 
 So get ready for an exciting journey as we explore 5 ChatGPT alternatives that will blow your mind!
@@ -29,7 +30,7 @@ If you've been using ChatGPT to generate codes and would like to discover other 
 **Basic Info:**
 
 CoPilot is a code completion tool that utilizes OpenAI's Codex GPT-3 model to provide auto-completion capabilities. It supports various well-known coding platforms such as VS Code, Neovim, and JetBrains, and also offers the ability to work on the cloud with GitHub Codespaces.
-![image](https://user-images.githubusercontent.com/125871625/221226963-c7006545-9e57-469c-ac38-fb9d20ea6329.png)
+![coPilot-chatgpt-alternative-for-coding](https://user-images.githubusercontent.com/125871625/221226963-c7006545-9e57-469c-ac38-fb9d20ea6329.png)
 
 **Pros:**
 
@@ -45,7 +46,8 @@ CoPilot is a code completion tool that utilizes OpenAI's Codex GPT-3 model to pr
 **Pricing:**
 
 CoPilot is available for free to students and contributors to popular open-source projects. For individual users, the subscription cost is $10/month. For businesses, the cost is $19/month.
-![image](https://user-images.githubusercontent.com/125871625/221226994-4ba648d6-ccca-4fe6-889c-c30a4af4d4d8.png)
+
+![copilot-pricing-chatgpt-alternative-for-coding](https://user-images.githubusercontent.com/125871625/221226994-4ba648d6-ccca-4fe6-889c-c30a4af4d4d8.png)
 
 ### [Tabnine](https://www.tabnine.com/)  **-** AI assistant for software developers
 
@@ -68,7 +70,7 @@ Tabnine is a code completion plugin that supports the majority of programming la
 **Pricing:**
 
 Tabnine provides a complimentary version of its programming assistance, and an upgraded plan called Tabnine Pro, which costs $15 per month.
-![image](https://user-images.githubusercontent.com/125871625/221227099-bd48a25c-0b08-4e64-924b-d42b79bded7d.png)
+![tabnine-pricing-chatgpt-alternative-for-coding](https://user-images.githubusercontent.com/125871625/221227099-bd48a25c-0b08-4e64-924b-d42b79bded7d.png)
 
 ## **ChatGPT Alternatives for Writing**
 
@@ -77,7 +79,7 @@ Selecting an ideal ChatGPT substitute that caters to your content creation requi
 ### **[ChatSonic](https://writesonic.com/chat) - A ChatGPT alternative with superpowers**
 
 **Basic Info:** ChatSonic is an AI-powered conversational chatbot that generates AI art, writes factual content on current events, and provides a personalized assistant for various tasks. It offers a Chrome extension and mobile app for easy access and also understands voice commands.
-![image](https://user-images.githubusercontent.com/125871625/221226532-00b84c0d-9ce2-4228-b8d7-c2c5b5cb6cd7.png)
+![chatSonic-chatgpt-alternative-for-writing](https://user-images.githubusercontent.com/125871625/221226532-00b84c0d-9ce2-4228-b8d7-c2c5b5cb6cd7.png)
 
 
 **Pros:**
@@ -97,7 +99,7 @@ Selecting an ideal ChatGPT substitute that caters to your content creation requi
 - Free trial: With 6250 words (good quality)
 - Long-form (Monthly plan): $12.67 (Premium - 19k words, Good - 47.5k words, Average - 95k words, Economy - 190k words)
 - Custom plan - Reach out to the sales team for pricing.
-- ![image](https://user-images.githubusercontent.com/125871625/221226627-0ccb5bb1-c13e-402e-afe9-2ee6b668d017.png)
+- ![ChatSonic-pricing-chatgpt-alternative-for-writing](https://user-images.githubusercontent.com/125871625/221226627-0ccb5bb1-c13e-402e-afe9-2ee6b668d017.png)
 
 
 Note: The pricing options mentioned above are for Writesonic, which is a different product from ChatSonic. The pricing for ChatSonic is not explicitly mentioned on their website.
@@ -105,7 +107,7 @@ Note: The pricing options mentioned above are for Writesonic, which is a differe
 ### [Jasper Chat](https://www.jasper.ai/) - AI writing software tool and ChatGPT alternative
 
 Basic Info: Jasper Chat is an AI writing software tool that helps companies generate high-quality content quickly. It features a user-friendly interface and allows for continuous conversations, making it a viable alternative to ChatGPT.
-![image](https://user-images.githubusercontent.com/125871625/221226669-cbba4fd9-f941-4ce5-afd8-9bede95769f3.png)
+![jasper-chat-chatgpt-alternative-for-writing](https://user-images.githubusercontent.com/125871625/221226669-cbba4fd9-f941-4ce5-afd8-9bede95769f3.png)
 
 **Pros:**
 
@@ -120,7 +122,7 @@ Basic Info: Jasper Chat is an AI writing software tool that helps companies gene
 - Limited to paid subscribers on the Business plan and Boss mode
 
 **Pricing:** To access Jasper Chat, users need to subscribe to either the Business plan or the Boss mode, as the service is not available for free.starting at $49/month. The Starter pack has been discontinued.
-![image](https://user-images.githubusercontent.com/125871625/221226881-31483a5d-6584-48fe-86cf-42ddfabe699d.png)
+![jasper-chat-chatgpt-alternative-for-writing](https://user-images.githubusercontent.com/125871625/221226881-31483a5d-6584-48fe-86cf-42ddfabe699d.png)
 
 Overall, Jasper Chat is a good option for companies needing to generate content quickly, but lacks some of the features offered by other ChatGPT alternatives like ChatSonic. It is important to consider your specific requirements before choosing an AI writing software tool.
 
