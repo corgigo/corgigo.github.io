@@ -21,6 +21,7 @@ However, not all talking avatar software is equally powerful. To help users find
 ## **[D-ID](https://www.d-id.com/) – Text to Speech Avatar Software**
 
 D-ID provides an efficient solution for marketers seeking to produce engaging and professional video content quickly and easily. This AI-based video generator employs advanced technology to generate videos automatically from existing audio, images, and text, while enabling users to personalize their outputs with various customizable options.
+![d-id-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018797-308af4ee-b191-4cfd-8e2e-9c9e679e23ff.png)
 
 **Pros**
 
@@ -49,6 +50,7 @@ D-ID provides an efficient solution for marketers seeking to produce engaging an
 ## **[Synthesia](https://www.synthesia.io/) - Talking Avatar Creator for Education**
 
 Synthesia is the leading AI video generator available in the market, offering high-quality video generation within minutes that can be customized per your requirements. With Synthesia, you can edit existing videos, add new ones and personalize the video to fit your marketing strategy. It has an easy-to-use and intuitive interface and offers great video editing tools.
+![synthesia-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018821-58414d85-ccde-45d9-9ce8-03509062428a.png)
 
 **Pros:**
 
@@ -66,6 +68,9 @@ Synthesia is the leading AI video generator available in the market, offering hi
 It offers one personal pricing plan for $30. For further customization, you can contact the customer service team directly.
 
 ## **[DemoCreator](https://democreator.wondershare.com/) - Virtual Avatar Presenter**
+
+DemoCreator is an excellent talking avatar creator that allows you to create avatars with real-life expressions and human-like talking abilities. Its user-friendly interface allows you to customize the talking avatar with lip-syncing and script recording features. It also offers multiple language and accent options for creating a professional avatar.
+![demoCreator-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018886-0e92b8ec-4f53-49ba-a4ef-b73b67be08d4.png)
 
 DemoCreator is an excellent talking avatar creator that allows you to create avatars with real-life expressions and human-like talking abilities. Its user-friendly interface allows you to customize the talking avatar with lip-syncing and script recording features. It also offers multiple language and accent options for creating a professional avatar.
 
@@ -86,6 +91,8 @@ DemoCreator's pricing starts at $49.99/year.
 ## **[Crazytalk](https://www.reallusion.com/crazytalk/) - 3D Talking Avatar and Facial Animation Software**
 
 Crazytalk offers an easy-to-use interface suitable for all users, regardless of experience level. With its auto lip-sync technology, you can quickly animate any talking character.
+![crazytalk-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018682-e50e7401-17fe-40a5-ae14-ea220a701192.png)
+
 
 **Pros:**
 
@@ -105,6 +112,8 @@ Crazytalk can be purchased for a one-time fee of $99.95 and includes a 30-day re
 ## **[Animaker](https://www.animaker.com/deck) - Free Talking Avatar Maker for PowerPoint Presentations**
 
 Animaker is a free talking avatar creator software that allows users to create compelling PowerPoint presentations. With Animaker, you can animate talking characters with personalized facial expressions and natural-sounding audio to captivate your audience visually.
+![animaker-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018855-9dfd3bcd-5146-44a3-b955-c49b16a92110.png)
+
 
 **Pros:**
 
