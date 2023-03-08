@@ -1,3 +1,15 @@
+---
+
+title: "5 Best Text to Speech Generators (AI Voice) for 2023"
+
+date: 2023-03-08T18:49:49+08:00
+
+description: "Discover the top 5 text to speech (TTS) generators available in the market today"
+
+draft: false
+
+---
+
 The field of artificial intelligence (AI) has paved the way for a wide range of impressive text to speech (TTS) tools and generators. These text to speech applications use speech synthesis technology to read aloud text in a human-like manner.
 
 text to speech generators are utilized in diverse ways, from helping individuals with learning difficulties to being utilized by businesses and creators as a voiceover. They are also widely used in gaming, branding, animation, voice assistant development, and audiobooks. Technological advancements mean text to speech generators no longer require vast voice samples or professional equipment to function effectively.
