@@ -16,7 +16,25 @@ Talking avatar software has become famous for creating engaging and lifelike tal
 
 However, not all talking avatar software is equally powerful. To help users find the perfect software, a list of the top 5 talking avatar creator software has been compiled for 2023. Factors like ease of use, customization options, and cost have been considered.
 
-‍
+## **[Synthesia](https://www.synthesia.io/?via=cg) - Talking Avatar Creator for Education**
+
+Synthesia is the leading AI video generator available in the market, offering high-quality video generation within minutes that can be customized per your requirements. With Synthesia, you can edit existing videos, add new ones and personalize the video to fit your marketing strategy. It has an easy-to-use and intuitive interface and offers great video editing tools.
+![synthesia-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018821-58414d85-ccde-45d9-9ce8-03509062428a.png)
+
+**Pros:**
+
+- Easy to use and intuitive interface
+- Great video editing tools
+- High-quality AI video generation
+
+**Cons:**
+
+- No free plan is available
+- The video time limit of 4 minutes
+
+**Pricing:**
+
+It offers one personal pricing plan for $30. For further customization, you can contact the customer service team directly.
 
 ## **[D-ID](https://www.d-id.com/) – Text to Speech Avatar Software**
 
@@ -47,25 +65,7 @@ D-ID provides an efficient solution for marketers seeking to produce engaging an
 - Starting at **$299.99/month**, the Advanced and Enterprise plans provide sixty-five minutes of video content and customized services.
 - D-ID also provides personalized solutions for those who require more than the standard plans. Please contact their support team to learn more.
 
-## **[Synthesia](https://www.synthesia.io/) - Talking Avatar Creator for Education**
 
-Synthesia is the leading AI video generator available in the market, offering high-quality video generation within minutes that can be customized per your requirements. With Synthesia, you can edit existing videos, add new ones and personalize the video to fit your marketing strategy. It has an easy-to-use and intuitive interface and offers great video editing tools.
-![synthesia-talking-avatar-creator](https://user-images.githubusercontent.com/125871625/223018821-58414d85-ccde-45d9-9ce8-03509062428a.png)
-
-**Pros:**
-
-- Easy to use and intuitive interface
-- Great video editing tools
-- High-quality AI video generation
-
-**Cons:**
-
-- No free plan is available
-- The video time limit of 4 minutes
-
-**Pricing:**
-
-It offers one personal pricing plan for $30. For further customization, you can contact the customer service team directly.
 
 ## **[DemoCreator](https://democreator.wondershare.com/) - Virtual Avatar Presenter**
 
