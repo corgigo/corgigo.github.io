@@ -31,6 +31,8 @@ The emergence of AI image upscaling technology has made it possible to turn low-
 ### **[VanceAI PC](https://soft.vanceai.com/) -  AI Image Upscalers: Enhance Photo Quality in One Click**
 
 VanceAI PC is a user-friendly AI software designed for PC that aims to enhance and improve the quality of images. It can upscale image size and sharpen image quality with just one click. This AI software offers AI photo-enhancing features such as upscaling images, denoising images, and unblurring images. It provides four different AI models that can upscale images up to 8x.
+![best-ai-image-upscaler-vanceai-pc](https://user-images.githubusercontent.com/125871625/224932891-6d53d4fc-1952-4ae2-8ec6-c3e64df404bd.png)
+
 
 **Pros:**
 
@@ -62,6 +64,8 @@ VanceAI PC works on Windows 10 and 11 (64-bit only).
 ### **[Topaz Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - Exceptional AI image upscaler**
 
 In this review of AI image upscalers, Topaz Gigapixel AI emerges as the best software due to its shake reduction and high-quality upscaling capabilities. It features advanced AI technology that can effectively solve the issue of image blur and recover lost details during upscaling. This software has been trained through millions of tests and trials to learn the features of detail and noise, enabling it to produce full-resolution files from low-resolution images.
+![best-ai-image-upscaler-topaz-gigapixel-ai](https://user-images.githubusercontent.com/125871625/224933146-b6fcc81f-e3ee-42c8-849c-5d77a0fc1947.png)
+
 
 **Pros:**
 
@@ -99,6 +103,8 @@ In this review of AI image upscalers, Topaz Gigapixel AI emerges as the best sof
 ### **[BigJPG](https://bigjpg.com/en) - AI Image U**pscaler **& Enhancer Tools**
 
 BigJPG is an image upscaler software specializing in processing anime images and illustrations while upscaling images without compromising quality. It can accurately fill colors, details, and edges, making it the perfect choice for fuzzy anime images. It supports API, and the maximum size limit for an uploaded photo is 3000x3000px and 10MB. It also boasts high-performance servers with high speed and stability, supports batch upscaling, and can realize 4k upscaling without quality loss.
+![best-ai-image-upscaler-bigjpg](https://user-images.githubusercontent.com/125871625/224933218-5abba8bb-2ba2-4c2c-ae93-1328aa2f15b4.png)
+
 
 **Pros:**
 
@@ -120,6 +126,7 @@ BigJPG is an image upscaler software specializing in processing anime images and
 ### **[Pixbim Enlarge AI](https://pixbim.com/upscale-image) -** an advanced tool to *upscale images*
 
 Pixbim Enlarge AI is an advanced tool that uses powerful machine learning techniques to upscale images without losing quality. It fills missing pixels through intelligent analysis and accurate prediction, enhancing the details in the photo during the process.
+![best-ai-image-upscaler-apixbim-enlarge-ai](https://user-images.githubusercontent.com/125871625/224933254-bf5d1886-52dd-4cef-ab89-d776b7f55e89.png)
 
 **Pros:**
 
@@ -139,7 +146,7 @@ Pixbim Enlarge AI is an advanced tool that uses powerful machine learning techni
 ### **[AI Sharpener Scaling](http://a-sharper-scaling.com/) - AI Image Upscaler - Enlarge Images Free**
 
 AI Sharper Scaling is a free image enlarger software based on high-quality scaling technology. It can enlarge a photo by up to 400% while retaining its quality. It is only available as freeware in Microsoft Windows and is limited to Microsoft Windows Vista, 7, 8, and 10.
-
+![best-ai-image-upscaler-ai-sharpener-scaling](https://user-images.githubusercontent.com/125871625/224933288-dc07cc3a-e5b7-4fe5-bfb6-f598dee16526.png)
 **Pros:**
 
 - Free to download, install, and use
