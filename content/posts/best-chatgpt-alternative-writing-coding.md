@@ -76,7 +76,7 @@ Tabnine provides a complimentary version of its programming assistance, and an u
 
 Selecting an ideal ChatGPT substitute that caters to your content creation requirements is akin to the timeless dilemma of choosing the perfect swimsuit - it boils down to personal choice. Each platform possesses distinct advantages and limitations. To assist you in making an informed decision, here are some options you can contemplate as alternatives to ChatGPT for your writing needs:
 
-### **[ChatSonic](https://writesonic.com/chat) - A ChatGPT alternative with superpowers**
+### **[ChatSonic](https://writesonic.com/?via=cg) - A ChatGPT alternative with superpowers**
 
 **Basic Info:** ChatSonic is an AI-powered conversational chatbot that generates AI art, writes factual content on current events, and provides a personalized assistant for various tasks. It offers a Chrome extension and mobile app for easy access and also understands voice commands.
 ![chatSonic-chatgpt-alternative-for-writing](https://user-images.githubusercontent.com/125871625/221226532-00b84c0d-9ce2-4228-b8d7-c2c5b5cb6cd7.png)
