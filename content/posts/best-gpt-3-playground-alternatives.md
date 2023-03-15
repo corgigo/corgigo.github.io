@@ -10,8 +10,7 @@ draft: false
 
 ---
 
-{{< faq q="question?" a="answer">}}
-{{<script>}} 
+{{<code>}} 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -25,7 +24,7 @@ draft: false
   }
 }
 </script>
-{{</script>}} 
+{{</code>}} 
 
 # 5 Best GPT-3 Playground Alternatives
 
