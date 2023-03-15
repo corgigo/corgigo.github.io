@@ -16,8 +16,6 @@ draft: false
 
 This article presents five alternatives to GPT-3 Playground, These alternatives include：
 
-Here are five great alternatives to GPT-3 Playground:
-
 - **[ChatSonic](https://writesonic.com?via=cg) - A** GPT-3 Playground **with Superpowers |** Ai Chat Assistant
 - **[AI Writer](https://ai-writer.com?via=cg) - T**he best AI Text Generator
 - **[MARA](https://www.mara-solutions.com/) - AI Review Response Generator**
