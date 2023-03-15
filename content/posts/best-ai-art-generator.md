@@ -2,7 +2,7 @@
 
 title: "The Future of Art: 5 Best AI Art Generators You Need to Try in 2023"
 
-date: 2023-03-01 T21:59:49+08:00
+date: 2023-03-01T21:59:49+08:00
 
 description: Discover the top 5 AI art generators that are revolutionizing the way art is created in this blog post.
 
