@@ -11,7 +11,21 @@ draft: false
 ---
 
 {{< faq q="question?" a="answer">}}
-
+{{<script>}} 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "website nmae",
+  "url": "http://corgigo.com",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "http://corgigo.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{{</script>}} 
 
 # 5 Best GPT-3 Playground Alternatives
 
