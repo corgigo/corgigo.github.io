@@ -10,6 +10,8 @@ draft: false
 
 ---
 
+{{< faq q="question?" a="answer">}}
+
 
 # 5 Best GPT-3 Playground Alternatives
 
