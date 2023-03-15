@@ -2,7 +2,7 @@
 
 title: " Top 5 Alternatives to ChatGPT in 2023(Coding and Writing)"
 
-date: 2023-02-24 T18:59:49+08:00
+date: 2023-02-24T18:59:49+08:00
 
 description: Explore the top 5 ChatGPT alternatives that will enhance your conversational AI game.Let's embark on an exciting journey to explore these mind-blowing ChatGPT alternatives.
 
