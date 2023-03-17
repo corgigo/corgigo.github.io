@@ -24,11 +24,11 @@ We have conducted thorough research to help you find the ideal alternative to Mi
 
 This article presents five alternatives to Microsoft 365 Copilot. These alternatives include：
 
-- [**Upsite](https://www.upslide.net/) - AI Office Tools | Leading Add-In for Excel, Word & PowerPoint**
-- [**Fireflies.AI](http://fireflies.ai/) - AI Assistant for your Meetings**
-- [**Jasper](https://www.jasper.ai/) - Your AI Copywriting Assistant**
-- [**Timely](https://timelyapp.com/) - Time Tracking Software ｜Your AI Assistant**
-- [**Outboundflow.ai](http://outboundflow.ai/) - Personalized Emails At Scale - AI-Powered Cold Emails**
+- **[Upsite](https://www.upslide.net/) - AI Office Tools | Leading Add-In for Excel, Word & PowerPoint**
+- **[Fireflies.AI](http://fireflies.ai/) - AI Assistant for your Meetings**
+- **[Jasper](https://www.jasper.ai/) - Your AI Copywriting Assistant**
+- **[Timely](https://timelyapp.com/) - Time Tracking Software ｜Your AI Assistant**
+- **[Outboundflow.ai](http://outboundflow.ai/) - Personalized Emails At Scale - AI-Powered Cold Emails**
 
 ### **[Upsite](https://www.upslide.net/) - AI Office Tools | Leading Add-In for Excel, Word & PowerPoint**
 
