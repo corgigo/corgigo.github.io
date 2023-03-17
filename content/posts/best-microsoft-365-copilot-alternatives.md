@@ -20,7 +20,15 @@ Microsoft has recently launched [Microsoft 365 Copilot]([http://outboundflow.ai/
 
 However, it's worth noting that Microsoft 365 is a subscription-based service, and its cost can add up over time, especially for businesses with numerous users. With the rise of technology, the market is now filled with various AI Office Assistants that offer similar features to Microsoft Copilot, making it challenging for users to determine the best option.
 
-We have conducted thorough research to help you find the ideal alternative to Microsoft 365 Copilot. These **AI Office Assistants** provide attentive personas and remarkable features that are sure to take your conversations to new heights in 2023. Get ready for an exciting journey as we explore five ChatGPT alternatives that will amaze you!
+We have conducted thorough research to help you find the ideal alternative to Microsoft 365 Copilot. These **AI Office Assistants** provide attentive personas and remarkable features that are sure to take your conversations to new heights in 2023. Get ready for an exciting journey as we explore five Microsoft 365 Copilot alternatives that will amaze you!
+
+This article presents five alternatives to Microsoft 365 Copilot. These alternatives include：
+
+- [**Upsite](https://www.upslide.net/) - AI Office Tools | Leading Add-In for Excel, Word & PowerPoint**
+- [**Fireflies.AI](http://fireflies.ai/) - AI Assistant for your Meetings**
+- [**Jasper](https://www.jasper.ai/) - Your AI Copywriting Assistant**
+- [**Timely](https://timelyapp.com/) - Time Tracking Software ｜Your AI Assistant**
+- [**Outboundflow.ai](http://outboundflow.ai/) - Personalized Emails At Scale - AI-Powered Cold Emails**
 
 ### **[Upsite](https://www.upslide.net/) - AI Office Tools | Leading Add-In for Excel, Word & PowerPoint**
 
