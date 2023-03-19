@@ -203,7 +203,7 @@ In conclusion, using **face swap video editors** to create and share creative co
 
 Some platforms support animation, special effects, and other advanced tools that even beginners can quickly master and start creating impressive content. To get started on your quest to create invigorating face swap content, explore one (or more) of the top 10 options identified above.
 
-{{ < conde > }}
+{{< code >}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -231,4 +231,4 @@ Some platforms support animation, special effects, and other advanced tools that
   }]
 }
 </script>
-{{ < conde > }}
+{{< code >}}
