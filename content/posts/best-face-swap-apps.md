@@ -208,12 +208,13 @@ Some platforms support animation, special effects, and other advanced tools that
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "mainEntity": [{
+  "mainEntity": {
     "@type": "Question",
     "name": "What's the best app for face swap in 2023(video)?",
     "acceptedAnswer": {
       "@type": "Answer",
-      "text": "#1 Deepswap - AI Face Swap App for Video, Photo & GIF;
+      "text": "
+#1 Deepswap - AI Face Swap App for Video, Photo & GIF;
 #2 Reface - Face Swap in GIFs and Videos;
 #3 Deepfakesweb-Online Deepfake Maker;
 #4 Snapchat - Allows users to use face swap features;
@@ -221,14 +222,7 @@ Some platforms support animation, special effects, and other advanced tools that
 #6 FacePlay - Face Swap Video;
 #7 Movio - Free Face Swap Video Editor;"
     }
-  },{
-    "@type": "Question",
-    "name": "",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": ""
-    }
-  }]
+  }
 }
 </script>
 {{< code >}}
