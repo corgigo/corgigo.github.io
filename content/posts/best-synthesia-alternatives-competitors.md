@@ -1,13 +1,9 @@
 ---
 
 title: "5 Best Synthesia Alternatives and Competitors"
-
 date: 2023-03-21T11:49:49+08:00
-
-description: Here are some examples of Synthesia alternatives: Elai, Colossyan, D-ID, Hourone, and Rephrase.AI. 
-
+description: "Here are some examples of Synthesia alternatives: Elai, Colossyan, D-ID, Hourone, and Rephrase.AI."
 draft: false
-
 ---
 
 
