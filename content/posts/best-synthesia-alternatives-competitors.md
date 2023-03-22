@@ -131,6 +131,8 @@ The Personal plan costs $25/month and includes stock avatars, 10 video credits, 
 These AI-powered tools offer similar features to Synthesia, allowing businesses to save time and resources while personalizing their video content. We discuss the advantages and pricing of each tool, as well as a comparison to Synthesia.
 
 Overall, Every tool has its advantages. Don't hesitate to try it out now!
+
+
 {{< code >}}
 
 <script type="application/ld+json">
