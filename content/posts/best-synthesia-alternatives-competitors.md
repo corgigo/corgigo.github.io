@@ -136,72 +136,23 @@ Overall, Every tool has its advantages. Don't hesitate to try it out now!
 {{< code >}}
 <script type="application/ld+json">
 {
-"@context": "[https://schema.org](https://schema.org/)",
-"@type": "FAQPage",
-"mainEntity": [{
-"@type": "Question",
-"name": "What is Synthesia?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Synthesia is a video generation tool that uses AI to produce personalized videos through voiceovers and avatars in various languages. It is an ideal tool for creators, marketers, and businesses who want to create high-quality video content quickly and inexpensively, without professional equipment or actors."
-}
-},{
-"@type": "Question",
-"name": "What are the benefits of using AI video generator tools like Synthesia?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "AI video generator tools allow businesses to create professional videos in a short amount of time, saving resources. They also offer customization and personalization options, allowing videos to be tailored to the intended audience and message. Furthermore, AI video generators can help improve engagement and conversions by producing visually appealing and informative content."
-}
-},{
-"@type": "Question",
-"name": "What are some alternatives to Synthesia?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Some alternatives to Synthesia are Elai, Colossyan, D-ID, Hourone, and [Rephrase.AI](http://rephrase.ai/)."
-}
-},{
-"@type": "Question",
-"name": "What is Elai?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Elai is an AI-powered video generator platform that enables users to create engaging videos quickly and easily from text. With Elai, users can produce explainer videos, product demos, video tutorials, and more."
-}
-},{
-"@type": "Question",
-"name": "What are the benefits and drawbacks of Elai?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "The benefits of Elai are that it offers a range of customization options such as text selection, font choice, animation style, and audio selection. It is user-friendly and produces engaging videos with natural-sounding audio. The drawback is that the pricing of Elai is relatively high compared to some other AI video generator tools."
-}
-},{
-"@type": "Question",
-"name": "What is Colossyan?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Colossyan is an AI-powered video creation tool that specializes in generating realistic human-like avatars to star in videos. It is a direct competitor to Synthesia and is designed for marketers, trainers, and other professionals who want to create engaging and standout video content."
-}
-},{
-"@type": "Question",
-"name": "What are the advantages of using Colossyan?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "The advantages of using Colossyan are that it allows users to create high-quality videos with AI-generated actors that can be customized to fit the needs of their project. The platform's intuitive interface makes it easy for users to create, edit, and publish videos without requiring any prior video production experience. Colossyan's AI technology enables cost-effective and efficient video production, making it an affordable option for businesses of all sizes."
-}
-},{
-"@type": "Question",
-"name": "What is D-ID?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "D-ID is an AI video generator platform that uses advanced artificial intelligence technology to automatically generate videos from existing images, text, and audio while allowing users to customize their output with a wide range of options."
-}
-},{
-"@type": "Question",
-"name": "What are the advantages of using D-ID?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "The advantages of using D-ID are that it automatically generates high-quality videos in minutes and provides customizable options for each video."
-}
-}]
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What are some alternatives to Synthesia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Some alternatives to Synthesia are Elai, Colossyan, D-ID, Hourone, and Rephrase.AI."
+    }
+  },{
+    "@type": "Question",
+    "name": "What is Synthesia?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Synthesia is a video generation tool that uses AI to produce personalized videos through voiceovers and avatars in various languages. It is an ideal tool for creators, marketers, and businesses who want to create high-quality video content quickly and inexpensively, without professional equipment or actors"
+    }
+  }]
 }
 </script>
 {{< code >}}
