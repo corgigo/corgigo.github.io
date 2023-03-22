@@ -134,7 +134,6 @@ Overall, Every tool has its advantages. Don't hesitate to try it out now!
 
 
 {{< code >}}
-
 <script type="application/ld+json">
 {
 "@context": "[https://schema.org](https://schema.org/)",
@@ -205,5 +204,4 @@ Overall, Every tool has its advantages. Don't hesitate to try it out now!
 }]
 }
 </script>
-
 {{< code >}}
