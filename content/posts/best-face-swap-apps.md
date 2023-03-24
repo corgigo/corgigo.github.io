@@ -218,4 +218,27 @@ Some platforms support animation, special effects, and other advanced tools that
   }
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "7 Best Online Face Swap Video Editors",
+  "description": "Find the best face swap video editors online with this guide. There are Deepswap, Reface, Deepfakesweb, Snapchat, Mivo, FacePlay, and Movio.",
+  "image": "",  
+  "author": {
+    "@type": "Person",
+    "name": "Lane"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "",
+    "logo": {
+      "@type": "ImageObject",
+      "url": ""
+    }
+  },
+  "datePublished": "2023-03-12",
+  "dateModified": "2023-03-24"
+}
+</script>
 {{< code >}}
