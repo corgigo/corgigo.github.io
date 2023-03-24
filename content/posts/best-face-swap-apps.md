@@ -172,7 +172,7 @@ Limited to face swapping and creating videos, with no other editing features a
 - Free with in-app purchases starting at $4.99
 - Currently, the pricing information is not specified.
 
-## **[FacePlay](https://www.faceplay.cc/) - Face Swap Video**
+### **[FacePlay](https://www.faceplay.cc/) - Face Swap Video**
 
 **Basic Info:**
 
