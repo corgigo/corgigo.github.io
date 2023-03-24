@@ -155,4 +155,47 @@ As the AI revolution continues to unfold, it's hard to predict the full impact i
   }]
 }
 </script>
+<div class="row line-bottom60">
+      
+        <div class="col-12 display-4 font-weight-black may-like">You May Also Like</div>
+        
+                
+        <div class="col-12 col-md-4"> 
+          <div class="transition h-100">
+          <!--  <div class="card-top"> <img src="https://images.wondershare.com/filmora/article-images/filmora9-website-project-filmora.png" class="card-img-top rounded-0" alt="35"> </div> -->
+ <!-- card-body -->           
+ <div class="d-flex h-100 flex-column justify-content-between">
+         <div>     <a href="/after-effects/how-to-replace-face-after-effects.html" style="text-decoration: none" target="_blank" class="card-title detail-card-title mb-0 h5 font-weight-bold" ga360location="content_1_buttonLink_54">How to Replace Faces is AE? </a>
+   <p class=" text-color-gray mb-0 py-3">In this article, we are going to take you through how to replace one face or multiple faces in a video with the  motion tracking feature in After Effects.</p> </div>
+              <p class="card-date">by Ollie Mattison  Sep 01, 2022 20:02 PM</p>
+            <!-- <p class="read-more">Read More &gt;</p> -->
+            </div>
+          </div>
+           </div>
+        <div class="col-12 col-md-4"> 
+          <div class="transition h-100">
+          <!--  <div class="card-top"> <img src="https://images.wondershare.com/filmora/article-images/filmora9-website-project-filmora.png" class="card-img-top rounded-0" alt="35"> </div> -->
+ <!-- card-body -->           
+ <div class="d-flex h-100 flex-column justify-content-between">
+         <div>     <a href="/video-editor/best-video-editing-software-blur-faces.html" style="text-decoration: none" target="_blank" class="card-title detail-card-title mb-0 h5 font-weight-bold" ga360location="content_1_buttonLink_55">Best Video Editing Software to Blur Faces in Video </a>
+   <p class=" text-color-gray mb-0 py-3">In this article, we will show you how to blur faces with some of the best video editing software for free and paid.</p> </div>
+              <p class="card-date">by Ollie Mattison  Oct 19, 2022 16:01 PM</p>
+            <!-- <p class="read-more">Read More &gt;</p> -->
+            </div>
+          </div>
+           </div>
+        <div class="col-12 col-md-4"> 
+          <div class="transition h-100">
+          <!--  <div class="card-top"> <img src="https://images.wondershare.com/filmora/article-images/filmora9-website-project-filmora.png" class="card-img-top rounded-0" alt="35"> </div> -->
+ <!-- card-body -->           
+ <div class="d-flex h-100 flex-column justify-content-between">
+         <div>     <a href="/video-editing-tips/blur-face-online.html" style="text-decoration: none" target="_blank" class="card-title detail-card-title mb-0 h5 font-weight-bold" ga360location="content_1_buttonLink_56">Blur Faces Online Without Downloading Photo and Video Editing Apps </a>
+   <p class=" text-color-gray mb-0 py-3">You will learn how to blur faces online with some powerful tools and how to use these tools to edit your images.</p> </div>
+              <p class="card-date">by Ollie Mattison  Sep 01, 2022 20:02 PM</p>
+            <!-- <p class="read-more">Read More &gt;</p> -->
+            </div>
+          </div>
+           </div> 
+           
+        </div>
 {{< code >}}
