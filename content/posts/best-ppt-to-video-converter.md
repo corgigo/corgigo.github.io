@@ -15,7 +15,7 @@ To help you select the best PPT-to-video converter for your needs, we have compi
 
 ## Converting PowerPoint to Video: My 5 Favorite Online Tools
 
-### ****[Converter365](https://www.converter365.com/presentation-converter/ppt/ppt-to-mp4) -** ppt to video converter
+### **[Converter365](https://www.converter365.com/presentation-converter/ppt/ppt-to-mp4) -** ppt to video converter
 
 Converter365 is a cloud-based file conversion platform that supports 1000+ file formats and can convert PowerPoint to video. The converter can take up to 10 local or cloud files and convert them to MP4. There is a 100 MB limit for the conversion, and no additional options for customization.
 
@@ -76,7 +76,7 @@ Powtoon is a tool that enables users to transform their PowerPoint presentations
 
 Note: Users can try the tool for free before deciding on a plan. The Enterprise solution is also available for those who want to give everyone in their company access to the tool.
 
-### ****[Online-Convert](https://video.online-convert.com/convert/pptx-to-mp4) - S**ave PowerPoint as Video
+### [Online-Convert](https://video.online-convert.com/convert/pptx-to-mp4)  - Save PowerPoint as Video
 
 Online-Convert is a free web-based file converter website that allows users to convert PowerPoint files to MP4 video format. It offers additional features that allow users to customize the output video's orientation, dimensions, codecs, and more. Users can convert up to 5 files per conversion, and there is no file size limitation for the conversion.
 
