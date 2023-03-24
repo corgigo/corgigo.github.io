@@ -35,7 +35,7 @@ Converter365 is a cloud-based file conversion platform that supports 1000+ file 
 
 Converter365 is always free to use, but if you want more advanced features you can choose for paid plans, you can choose between Free, Basic, and Professional plans.
 
-### Synthesia - PowerPoint to video converter
+### [Synthesia](https://www.synthesia.io/?via=cg) - PowerPoint to video converter
 
 Synthesia PowerPoint to Video Converter is an AI-powered tool that allows users to transform PowerPoint files into engaging videos with talking avatars. It supports converting PPT and PPTX files to MP4 format, and offers narration in 85+ languages. The tool can also create a free AI video, and no video editing skills are required to use it. The platform has been trusted by over 40,000 companies of all sizes, including Reuters, Novo Nordisk, and Accenture.
 
