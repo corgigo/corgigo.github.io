@@ -4,7 +4,7 @@ title: "7 Best Online Face Swap Video Editors"
 
 date: 2023-03-12T16:49:49+08:00
 
-description:  Find the best face swap video editors online with this guide. Learn about the top 10 editors that are easy to use and offer great features to help you create impressive videos. Get started now and unleash your creativity!
+description:  Find the best face swap video editors online with this guide. Learn about the top seven editors that are easy to use and offer great features to help you create impressive videos. Get started now and unleash your creativity!
 
 draft: false
 
