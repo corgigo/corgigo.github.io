@@ -63,6 +63,14 @@
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
-
+    {{ $recent := .Site.RegularPages.ByPublishDate.Reverse | first 3 }}
+    {{ if $recent }}
+    <h2>Recent Posts</h2>
+    <ul>
+    {{ range $recent }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ end }}
+    </ul>
+    {{ end }}
   </article>
 {{ end }}
