@@ -12,7 +12,7 @@ draft: false
 
 ## What is **Microsoft 365 Copilot?**
 
-Microsoft has recently launched [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365?rtc=2)), an AI office tool that leverages large language models and user data in the Microsoft Graph and Microsoft 365 apps to enhance user productivity. The tool is integrated into popular Microsoft applications such as Word, Excel, PowerPoint, Outlook, Teams, and more. Copilot aids users with various tasks such as drafting, editing, summarizing, analyzing, and exploring data. Additionally, it improves writing skills by suggesting arguments or correcting inconsistencies. The primary goal of Copilot is to minimize the time spent on mundane tasks, allowing users to focus on more creative and engaging work.
+Microsoft has recently launched [Microsoft 365 Copilot](https://www.microsoft.com/en-us/microsoft-365?rtc=2), an AI office tool that leverages large language models and user data in the Microsoft Graph and Microsoft 365 apps to enhance user productivity. The tool is integrated into popular Microsoft applications such as Word, Excel, PowerPoint, Outlook, Teams, and more. Copilot aids users with various tasks such as drafting, editing, summarizing, analyzing, and exploring data. Additionally, it improves writing skills by suggesting arguments or correcting inconsistencies. The primary goal of Copilot is to minimize the time spent on mundane tasks, allowing users to focus on more creative and engaging work.
 
 {{< youtube S7xTBa93TX8 >}}
 
