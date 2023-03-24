@@ -66,7 +66,7 @@ The accuracy of the transcriptions may not be 100% and may require editing. The 
 
 **Free plan:** Includes limited transcription credits, 800 mins of storage/seat, and key features such as automated meeting summaries, search within meetings, comments & reactions, and clip-out moments as soundbites. **Pro plan:** Costs $10 per seat, per month billed annually, or $18 billed monthly. Includes unlimited transcription credits, 8,000 mins of storage/seat, and everything in the Free plan, plus premium AI summaries, download transcripts & recordings, global search, smart search filters, keywords & topic tracking, meeting speaker talk-time, unlimited public channels, custom vocabulary, and integrations with CRM, Zapier, Slack, and other tools. **Business plan:** Costs $19 per seat, per month billed annually, or $29 billed monthly. Includes unlimited transcription credits, unlimited storage, and everything in the Pro plan, plus video recording, conversation intelligence, team insights (For admins), unlimited public & private channels, API access, and unlimited integrations.
 
-## [Jasper](https://www.jasper.ai/) - Your AI Copywriting Assistant
+### [Jasper](https://www.jasper.ai/) - Your AI Copywriting Assistant
 
 Jasper is widely regarded as the top AI writing assistant, boasting exceptional features and quality that set it apart in the market. To create content, simply provide Jasper with seed words, which it analyzes before generating phrases, paragraphs, or even entire documents based on the desired subject matter and tone.
 
@@ -92,7 +92,7 @@ One of Jasper's key strengths is its extensive selection of more than 50 AI cont
 
 Note: Credits refer to the number of words that can be generated using Jasper's AI content generation system, and the number of users refers to the number of people who can access the platform under each plan. The Business plan has a custom price and is tailored to the needs of the team.
 
-## [Timely](https://timelyapp.com/) - **Time Tracking Software ｜Your AI Assistant**
+### [Timely](https://timelyapp.com/) - **Time Tracking Software ｜Your AI Assistant**
 
 Timely is a **time tracking software** that offers AI-powered automatic time tracking. It automates time tracking, so individuals and teams can focus on the work that matters.
 
