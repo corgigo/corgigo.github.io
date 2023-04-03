@@ -128,33 +128,3 @@ Overall, [Outboundflow.ai](http://outboundflow.ai/) is a powerful tool that ca
 
 AI assistants by reducing time spent on routine tasks and freeing up users for more creative endeavors. If you're ready to take control of your digital life, manage your projects, and unleash your creativity, try out an AI assistant in your work today.
 
-{{< code >}}
-<script type="application/ld+json">
-{
-"@context": "[https://schema.org](https://schema.org/)",
-"@type": "FAQPage",
-"mainEntity": [{
-"@type": "Question",
-"name": "What is Microsoft 365 Copilot?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Microsoft 365 Copilot is an AI-powered assistant for Microsoft Office Suite that provides suggestions and automates certain tasks to improve productivity."
-}
-},{
-"@type": "Question",
-"name": "Is there  alternative to Microsoft 365 Copilot?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Yes, there are several alternatives to Microsoft 365 Copilot, including Upsite, [Fireflies.AI](http://fireflies.ai/), Jasper, Timely, and [Outboundflow.ai](http://outboundflow.ai/). Each of these AI Office Assistants offers unique features and benefits to enhance productivity and improve workflow efficiency."
-}
-},{
-"@type": "Question",
-"name": "Why are there alternatives to Microsoft 365 Copilot?",
-"acceptedAnswer": {
-"@type": "Answer",
-"text": "Microsoft 365 is a subscription-based service, and its cost can add up over time, especially for businesses with numerous users. Additionally, there are now many AI Office Assistants that offer similar features to Microsoft Copilot, making it challenging for users to determine the best option."
-}
-}]
-}
-</script>
-{{< code >}}
