@@ -55,7 +55,7 @@ To determine the cost of UpSlide for your business, the pricing will depend on f
 ### **[Fireflies.AI](http://fireflies.ai/) - AI Assistant for your Meetings**
 
 [Fireflies.ai](http://fireflies.ai/) is an AI-powered office tool that serves as a meeting assistant, allowing teams to record, transcribe, search, and analyze voice conversations. Its functionality extends to the automatic recording and transcription of meetings held on various video-conferencing platforms, dialers, and audio files. [Fireflies.ai](http://fireflies.ai/) also integrates seamlessly with a wide range of apps, such as Google Meet, Zoom, Teams Webex, Ringcentral, and Aircall. To learn more about its features, advantages, disadvantages, and pricing, read on.
-{{< wNI5wMkxy84 >}}
+{{< yoututbe wNI5wMkxy84 >}}
 **The Pros of [Fireflies.AI](http://fireflies.ai/) are:**
 
 Automatically records and transcribes meetings. Integrates with various video-conferencing apps, dialers, and audio files. Provides AI-powered search to find anything discussed during meetings. Offers collaboration features such as adding comments, pins, and reactions to specific parts of conversations. Provides conversation intelligence to track speaker talk time, sentiment, monologues, and other key metrics to coach teammates. Offers the ability to automate workflows from meetings by filling out your CRM, creating tasks, and sharing meeting recaps to collaboration apps. Creates a real-time knowledge base from all your voice conversations. Has flexible pricing plans for individuals and small teams, as well as businesses.
