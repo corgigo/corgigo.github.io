@@ -1,6 +1,6 @@
 ---
 
-title: "5 **Best AI Text Generators For Content Writing** in 2023"
+title: "5 Best AI Text Generators For Content Writing in 2023"
 date: 2023-04-05T10:49:49+08:00
 description: "In this guide, I ranked and reviewed the 5 best AI text generators so that you can pick the best one for you."
 draft: false
