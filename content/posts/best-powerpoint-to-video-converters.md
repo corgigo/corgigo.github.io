@@ -1,6 +1,6 @@
 ---
 
-title: "The 5 Best PowerPoint（PPT） to Video Converters in 2023"
+title: "The 5 Best PowerPoint to Video Converters in 2023"
 date: 2023-04-07T11:49:49+08:00
 description: "In this article, you will find a compilation of top websites that allow you to convert your PPT/PPTX files into MP4 videos"
 draft: false
