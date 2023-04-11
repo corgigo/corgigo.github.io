@@ -19,7 +19,7 @@ Although Synthesia is an excellent tool, its video generation capabilities are l
 
 - [Elai](https://elai.io/?via=cg) - Synthesia Similar Software
 - [Colossyan](https://app.colossyan.com/affiliate?priceId=price_1KvhQCFQ1FW4qOXyZNQvkSVv&quantity=20&via=cg) - Synthesia Competitor, AI Actor Video Creator
-- [D-ID](https://www.d-id.com/) - Top AI video generation platform, better than Synthesia
+- [D-ID](https://www.popwebtools.com/d-id-creative-reality) - Top AI video generation platform, better than Synthesia
 - [Hourone](https://hourone.ai/.well-known/captcha/?r=%2F) - Synthesia alternative
 - [Rephrase.AI](https://www.rephrase.ai/) - Alternative to Synthesia.
 
@@ -65,7 +65,7 @@ Colossyan is an AI-powered video creation tool that specializes in generating re
 |  |  | support | success manager |
 | Price (monthly, billed yearly) | $21/mo, $252/yr | $70/mo, $840/yr | Procurement friendly |
 
-# **[D-ID](https://www.d-id.com/) – Better than Synthesia, Top AI Video Generation Platform**
+# **[D-ID](https://www.popwebtools.com/d-id-creative-reality) – Better than Synthesia, Top AI Video Generation Platform**
 
 For marketers who need to create engaging and professional-looking video content quickly and easily, D-ID is an excellent choice. This AI video generator platform uses advanced artificial intelligence technology to automatically generate videos from existing images, text, and audio while allowing users to customize their output with a wide range of options.
 
