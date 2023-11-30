@@ -17,13 +17,13 @@ The advantages of using AI video generator tools like Synthesia are plentiful. T
 
 Although Synthesia is an excellent tool, its video generation capabilities are limited, and its subscription plans can be expensive for some users. In response, other AI video generator tools on the market offer similar functionality or even better options than Synthesia. Here are some examples of Synthesia alternatives:
 
-- [DeepBrain AI](https://www.deepbrain.io/aistudios?via=co) - Alternative to Synthesia io
+- [DeepBrain AI](https://www.deepbrain.io/features/alternative?via=co) - Alternative to Synthesia io
 - [Elai](https://elai.io/?via=cg) - Synthesia Similar Software
 - [Colossyan](https://app.colossyan.com/affiliate?priceId=price_1KvhQCFQ1FW4qOXyZNQvkSVv&quantity=20&via=cg) - Synthesia Competitor, AI Actor Video Creator
 - [D-ID](https://www.popwebtools.com/d-id-creative-reality) - Top AI video generation platform, better than Synthesia
 - [Hourone](https://hourone.ai/.well-known/captcha/?r=%2F) - Synthesia alternative
 
-# **[DeepBrain AI](https://www.deepbrain.io/aistudios?via=co) - Alternative to Synthesia io**
+# **[DeepBrain AI](https://www.deepbrain.io/features/alternative?via=co) - Alternative to Synthesia io**
 
 DeepBrain AI is an alternative to Synthesia AI that uses simple text to produce lifelike AI avatar videos. It provides a free trial without requiring a credit card, and individuals have the ability to create personalized avatars for famous individuals such as celebrities, politicians, news anchors, and sports personalities.
 
